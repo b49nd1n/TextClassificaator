@@ -1,3 +1,9 @@
 # Project exclude paths
 /data/
 /venv/
+/__init__.py
+/collector.py
+/run_my_code.sh
+/step_2_idf.py
+/step_3_tf-idf.py
+/step_1_tf.py
