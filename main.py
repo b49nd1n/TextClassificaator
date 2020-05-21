@@ -317,7 +317,6 @@ def clasters():
 
 if __name__ == "__main__":
     # download_data()
-    # tf_idf()
     # preprocess()
     # trainig()
     # # testing()
